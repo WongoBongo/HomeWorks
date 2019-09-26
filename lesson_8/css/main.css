@@ -1,0 +1,165 @@
+* {
+	box-sizing: border-box;
+}
+body {
+	font-family: sans-serif;
+	color: #32325f;
+}
+.hero {
+	padding-top: 70px;
+	padding-bottom: 160px;
+	background-color: #f4f5f7;
+}
+.container {
+	max-height: 1140px;
+	width: 96%;
+	margin-left: auto;
+	margin-right: auto;
+}
+.navbar {
+	display:flex;
+	align-items: center;
+	justify-content: space-between;
+}
+.brand {
+	width: 182px;
+	height: 25px;
+	color: #95989a;
+	font-size: 20px;
+	font-weight: 700;
+	text-transform: uppercase;
+}
+.social a {
+	text-decoration: none;
+}
+.title {
+	display:block;
+}
+.main {
+	margin-top: 100px;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+.main-text {
+	width: 50%;
+}
+.title {
+	margin-top: 14px;
+}
+.description {
+	margin-top: 26px;
+}
+.subtitle {
+	color: #32325f;
+	font-size: 20px;
+	font-weight: 400;
+}
+.title {
+	font-size: 48px;
+	font-weight: 700;
+}
+.price {
+	margin-top: 15px;
+}
+.about-price {	
+	margin-top: 20px;
+	margin-bottom: 40px;
+	font-size: 48px;
+	font-weight: 400;
+}
+.btn {
+	box-shadow: 0 3px 6px rgba(173, 173, 173, 0.16);
+	border-radius: 6px;
+	background-color: grey;
+	color: #ffffff;
+	font-size: 20px;
+	font-weight: 700;
+	padding: 20px 30px;
+	text-decoration: none;
+}
+.btn-success {
+	background-color: #2CCB87;
+	margin-right: 20px;
+}
+.btn-violet {
+	background-color: #5E72E4;
+}
+.section {
+	/*внутренний отступ*/
+	padding-top: 100px;
+	padding-bottom: 100px;
+}
+.section-subtitle {
+	font-size: 20px;
+	font-weight: 400;
+	margin-bottom: 16px;
+	display: block;
+}
+.section-title {
+	font-size: 48px;
+	font-weight: 700;
+}
+.wrap {
+	display: flex;
+	margin-top: 100px;
+	justify-content: space-between;
+	flex-wrap: wrap;
+}
+.block {
+	width: 23%;
+	margin-right: 2%;
+}
+.block-text {
+	font-size: 16px;
+	font-weight: 400;
+	margin-top: 40px;
+	line-height: 1.2;
+}
+.footer {
+	background-color: #32325f;
+	color: #ffffff;
+	padding-top: 70px;
+	padding-bottom: 70px;
+}
+.footer-wrap {
+	display: flex;
+	justify-content: space-between;
+}
+.footer-block {
+	width: 30%
+	margin-right:3%;
+}
+.footer-title{
+	font-size: 24px;
+	font-weight: 700;
+	margin-bottom:35px;
+}
+
+.footer p{
+	line-height: 1.2;
+}
+.people-section{
+	background-color: #f4f5f7;
+}
+.main-people{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+.people{
+	padding-bottom: 28px;
+	padding-right: 28px;
+}
+.people-subtitle{
+	font-size: 20px;
+	font-weight: 400;
+	display: block;
+}
+.people-title{
+	font-size: 48px;
+	font-weight: 700;
+	display: block;
+	margin-top: 13px;
+	margin-bottom: 64px;
+}
