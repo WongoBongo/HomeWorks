@@ -1,0 +1,54 @@
+body{
+  color: #32325f;
+}
+img{
+  max-width: 100%;
+}
+.hero {
+  background-color: #f4f5f7;
+  padding-top: 70px;
+  padding-bottom: 190px;
+}
+.main {
+  margin-top: 100px;
+}
+.subtitle {
+  font-size: 20px;
+  font-weight: 400;
+}
+.title  {
+  font-size: 48px;
+  font-weight: 700;
+}
+.desxription {
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 26px;
+}
+.price-tag {
+  font-size: 20px;
+  font-weight: 400;
+}
+.price {
+  font-size: 48px;
+  font-weight: 400;
+}
+.section{
+  padding-top: 100px;
+  padding-bottom: 100px;
+
+}
+.about-block{
+  padding-top: 100px;
+}
+.footer{
+  background-color: #32325f;
+  color: #ffffff;
+  font-size: 16px;
+  font-weight: 700;
+  font-family: sans-serif;
+}
+.footer h2{
+  font-size: 24px;
+  font-weight: 700;
+}
