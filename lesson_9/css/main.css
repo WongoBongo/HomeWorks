@@ -1,0 +1,37 @@
+/* * { 
+ box-sizing: border-box;   
+} */
+body {
+  margin: 0;
+  font-family: sans-serif;
+  padding: 70px;
+  background-color: white;
+}
+.heading {
+  font-size: 24px;
+  font-weight: 700;
+  text-align: center;
+  text-transform: uppercase;
+  margin-top: 70px;
+  margin-bottom: 70px;
+}
+
+.row {
+  justify-content: space-around;
+}
+
+ 
+.block {
+  margin-bottom: 70px;
+  min-height: 180px;
+}
+
+img{
+  width:82px;
+  height:90px;
+}
+
+p{
+  text-align: center;
+  width: 100px;
+}
